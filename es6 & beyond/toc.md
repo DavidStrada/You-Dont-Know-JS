@@ -29,7 +29,7 @@
 	* Promises
 	* Generators + Promises
 * Chapter 5: Collections
-	* Typed Arrays
+	* TypedArrays
 	* Maps
 	* WeakMaps
 	* Sets
@@ -49,7 +49,10 @@
 	* Feature Testing
 	* Tail Call Optimization (TCO)
 * Chapter 8: Beyond ES6
-	* `async` Functions
+	* `async function`s
 	* `Object.observe(..)`
-	* Other Stuff
+	* Exponentiation Operator
+	* Object Properties and `...`
+	* `Array#includes(..)`
+	* SIMD
 * Appendix A: Acknowledgments
